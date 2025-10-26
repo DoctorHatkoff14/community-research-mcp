@@ -362,8 +362,15 @@ Special thanks to the entire developer community for sharing solutions that make
 Need help? Check the troubleshooting section or create an issue.
 Want to support development? Star the repo and share with other developers who are tired of the AI guessing game!
 
+## Disclaimer
 
-Created by Dr. Andrew Hatkoff. Your support helps this project grow — all proceeds from donations go directly toward the project itself.
+
+This project is a personal initiative by myself, Dr. Andrew Hatkoff. It is not affiliated with or endorsed by my employer or any other organization. The views expressed here are my own and do not necessarily reflect those of my employer or any other entity.
+
+## Donation
+
+
+Your support helps this project grow. All donations go directly toward the project itself. If you find this project useful, please consider buying me a coffee, and we'll see where this thing takes us. Otherwise, if it sucks, don't!
 
 buymeacoffee.com/AndrewHatkoff
 
