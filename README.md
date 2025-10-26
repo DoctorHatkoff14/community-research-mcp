@@ -1,4 +1,4 @@
-# Community Research MCP
+# community-research-mcp
 
 > *"Where the official documentation ends and actual street-smart solutions begin."*
 
