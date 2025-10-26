@@ -1,6 +1,8 @@
 # Community Research MCP
 
-> *"Where the official documentation ends and actual solutions begin."*
+> *"Where the official documentation ends and actual street-smart solutions begin."*
+
+<img width="1336" height="1336" alt="YING_upscayl_2x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/76da32af-d4f2-4604-bb48-01fcd2f80637" />
 
 ---
 
@@ -358,5 +360,13 @@ Special thanks to the entire developer community for sharing solutions that make
 ## Support
 
 Need help? Check the troubleshooting section or create an issue.
-
 Want to support development? Star the repo and share with other developers who are tired of the AI guessing game!
+
+
+Created by Dr. Andrew Hatkoff. Your support helps this project grow — all proceeds from donations go directly toward the project itself.
+
+buymeacoffee.com/AndrewHatkoff
+
+
+
+
