@@ -365,15 +365,7 @@ Want to support development? Star the repo and share with other developers who a
 ## Disclaimer
 
 
-This project is a personal initiative by myself, Dr. Andrew Hatkoff. It is not affiliated with or endorsed by my employer or any other organization. The views expressed here are my own and do not necessarily reflect those of my employer or any other entity.
-
-## Donation
-
-
-Your support helps this project grow. All donations go directly toward the project itself. If you find this project useful, please consider buying me a coffee, and we'll see where this thing takes us. Otherwise, if it sucks, don't!
-
-buymeacoffee.com/AndrewHatkoff
-
+This project is a personal initiative by myself. It is not affiliated with or endorsed by my employer or any other organization. The views expressed here are my own and do not necessarily reflect those of my employer or any other entity.
 
 
 
