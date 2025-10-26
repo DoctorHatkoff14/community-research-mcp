@@ -1,0 +1,15 @@
+# MCP Server Requirements
+mcp>=1.2.0
+fastmcp>=0.1.0
+
+# HTTP Client
+httpx>=0.28.1
+
+# Data Validation
+pydantic>=2.10.4
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Async Support
+asyncio
