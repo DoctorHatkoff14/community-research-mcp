@@ -280,9 +280,9 @@ mcp.json                    MCP configuration
 ### LLM Synthesis
 
 Supports multiple providers (auto-detects based on API keys):
-- **Gemini 2.0 Flash** (Recommended - Free tier)
-- **GPT-4o-mini** (OpenAI)
-- **Claude 3.5 Haiku** (Anthropic)
+- **Gemini 2.5 Flash** (Recommended - Free tier)
+- **GPT-5-mini** (OpenAI)
+- **Claude 4.5 Haiku** (Anthropic)
 - **OpenRouter** (Multiple models)
 - **Perplexity** (Web-search enabled)
 
